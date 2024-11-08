@@ -218,7 +218,7 @@ if __name__ == "__main__":
 
 ```
 
-ref: https://github.com/moboehle/Pytorch-LRP](https://github.com/luutran974024/Alz
+ref: https://github.com/luutran974024/Alz
 
 Datasets: https://adni.loni.usc.edu
 
