@@ -210,7 +210,7 @@ class ClassificationModel3D(nn.Module):
 
 ```
 
-ref: https://github.com/moboehle/Pytorch-LRP
+ref: https://github.com/moboehle/Pytorch-LRP](https://github.com/luutran974024/Alz
 
 Dataset: https://adni.loni.usc.edu
 
